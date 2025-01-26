@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Victor Zion!
 
-Welcome to my corner of GitHub! 🚀 I'm a Flutter Developer, Front-end Web Developer, Machine Learning Enthusiast and an aspiring Blockchain Engineer, passionate about building innovative solutions and exploring the intersection of technology and creativity.  
+Welcome to my corner of GitHub! 🚀 I'm a Flutter Developer, Front-end Web Developer, Machine Learning Enthusiast and an aspiring Blockchain Developer, passionate about building innovative solutions and exploring the intersection of technology and creativity.  
 
 ---
 
@@ -46,8 +46,8 @@ Welcome to my corner of GitHub! 🚀 I'm a Flutter Developer, Front-end Web Deve
 - 💼 [LinkedIn](https://linkedin.com/in/victor-zion)
 - 🌐 [Portfolio](coming soon)
 - ✉️ [Email](mailto:your-email@victorzion1@gmail.com)
-- 📞 [WhatsApp]
----
+- 📞 [WhatsApp](08105123142
+---)
 
 ### 💬 Fun Fact
 I'm a very fast and adaptive learner. Can write code faster than I can cook instant noodles!🤝🏽
