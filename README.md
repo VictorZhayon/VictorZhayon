@@ -37,8 +37,6 @@ Welcome to my GitHub! 🚀 I'm a **Flutter Developer, Front-end Web Developer, A
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorZhayon&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZhayon&layout=compact&theme=radical)
-[![Victor's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VictorZhayon)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 🌍 Connect With Me  
 
