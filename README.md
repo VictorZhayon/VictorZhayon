@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Victor Zion!  
 
-Welcome to my GitHub! 🚀 I'm a **Flutter Developer, AI/ML Engineer, and an aspiring Blockchain Developer**, passionate about building innovative solutions and exploring the intersection of technology and creativity.  
+Welcome to my GitHub! 🚀
+I'm a **Flutter Developer, AI/ML Engineer, a Technical Researcher and an aspiring Blockchain Developer**, passionate about building innovative solutions and exploring the intersection of technology and creativity.  
 
 
 ## 🔭 What I’m Working On  
@@ -35,9 +36,8 @@ Welcome to my GitHub! 🚀 I'm a **Flutter Developer, AI/ML Engineer, and an asp
 
 ## 📊 Stats  
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorZhayon&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZhayon&layout=compact&theme=radical)
-
+[![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorZhayon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZhayon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## 🌍 Connect With Me  
 
 - 💼 [LinkedIn](https://linkedin.com/in/victor-zion)  
