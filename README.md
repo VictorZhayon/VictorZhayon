@@ -34,10 +34,19 @@ I'm a **Flutter Developer, AI/ML Engineer, a Technical Researcher and an aspirin
 ![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-007ACC?logo=microsoftword&logoColor=white&style=for-the-badge)  
 
 
-## 📊 Stats  
+## ⚙️ &nbsp;GitHub Analytics
 
-[![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorZhayon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZhayon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/VictorZhayon">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorZhayon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorZhayon&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+#### Contributions
+<div align="center">
+	<a href="https://github.com/farhan7reza7/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorZhayon&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
+</div>
 ## 🌍 Connect With Me  
 
 - 💼 [LinkedIn](https://linkedin.com/in/victor-zion)  
