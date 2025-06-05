@@ -13,25 +13,16 @@ I'm a **Flutter Developer, AI/ML Engineer, a Technical Researcher and an aspirin
 ## 💡 Skills & Tools  
 
 ### 🚀 Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
 
 ### 🔥 Frameworks & Libraries  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)  
-
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)  
 
 ### 🛠 Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)  
 
 ### 🎨 Other Skills  
-![API](https://img.shields.io/badge/-API-008080?logo=swagger&logoColor=white&style=for-the-badge)  
-![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-FF4088?logo=figma&logoColor=white&style=for-the-badge)  
-![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-007ACC?logo=microsoftword&logoColor=white&style=for-the-badge)  
+![API](https://img.shields.io/badge/-API-008080?logo=swagger&logoColor=white&style=for-the-badge)  ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-FF4088?logo=figma&logoColor=white&style=for-the-badge)  ![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-007ACC?logo=microsoftword&logoColor=white&style=for-the-badge)  
 
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -47,6 +38,7 @@ I'm a **Flutter Developer, AI/ML Engineer, a Technical Researcher and an aspirin
 <div align="center">
 	<a href="https://github.com/farhan7reza7/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorZhayon&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
 </div>
+
 ## 🌍 Connect With Me  
 
 - 💼 [LinkedIn](https://linkedin.com/in/victor-zion)  
