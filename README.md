@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Victor Zion!  
 
 Welcome to my GitHub! 🚀
-I'm a **Flutter Developer, AI/ML Engineer, a Technical Researcher and an aspiring Blockchain Developer**, passionate about building innovative solutions and exploring the intersection of technology and creativity.  
+I'm a **AI/ML Engineer, a Technical Researcher and a Backend Engineer in the making**, passionate about building innovative solutions and exploring the intersection of technology and creativity.  
 
 
 ## 🔭 What I’m Working On  
 - 🌟 **Current Focus:** Projects integrating LLMs, NLP, Computer Vision and more.  
-- 🌱 **Learning:** Advanced Machine Learning, Prompt Engineering, and Data Analysis.  
+- 🌱 **Learning:** Advanced Machine Learning, Prompt Engineering, and Backend Engineering.  
 - 🛠️ **Upcoming Projects:** Stay tuned!  
 
 
@@ -44,7 +44,7 @@ I'm a **Flutter Developer, AI/ML Engineer, a Technical Researcher and an aspirin
 - 💼 [LinkedIn](https://linkedin.com/in/victor-zion)  
 - 🌐 Portfolio (Coming Soon)  
 - ✉️ [Email](mailto:victorzion1@gmail.com)  
-- 📞 [WhatsApp](https://wa.me/08105123142)  
+- 📞 [WhatsApp](https://wa.me/+2348105123142)  
 
 
 ### 💬 Fun Fact  
