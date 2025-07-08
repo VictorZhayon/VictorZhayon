@@ -42,7 +42,7 @@ I'm a **AI/ML Engineer, a Technical Researcher and a Backend Engineer in the mak
 ## 🌍 Connect With Me  
 
 - 💼 [LinkedIn](https://linkedin.com/in/victor-zion)  
-- 🌐 Portfolio (Coming Soon)  
+- 🌐 [Portfolio](https://zhayonportfolio.streamlit.app/)
 - ✉️ [Email](mailto:victorzion1@gmail.com)  
 - 📞 [WhatsApp](https://wa.me/+2348105123142)  
 
