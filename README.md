@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Victor Zion!  
 
 Welcome to my GitHub! 🚀
-I'm a **AI/ML Engineer, a Technical Researcher and a Backend Engineer in the making**, passionate about building innovative solutions and exploring the intersection of technology and creativity.  
+I'm an **AI/ML Engineer, a Technical Researcher and a Backend Engineer in the making**, passionate about building innovative solutions and exploring the intersection of technology and creativity.  
 
 
 ## 🔭 What I’m Working On  
@@ -44,7 +44,7 @@ I'm a **AI/ML Engineer, a Technical Researcher and a Backend Engineer in the mak
 - 💼 [LinkedIn](https://linkedin.com/in/victor-zion)  
 - 🌐 [Portfolio](https://zhayonportfolio.streamlit.app/)
 - ✉️ [Email](mailto:victorzion1@gmail.com)  
-- 📞 [WhatsApp](https://wa.me/+2348105123142)  
+- 📞 [WhatsApp](https://wa.link/xge0dd)  
 
 
 ### 💬 Fun Fact  
