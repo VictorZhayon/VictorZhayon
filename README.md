@@ -45,7 +45,8 @@ I'm an **AI/ML Engineer, a Technical Researcher and a Backend Engineer in the ma
 - 🌐 [Portfolio](https://zhayonportfolio.streamlit.app/)
 - ✉️ [Email](mailto:victorzion1@gmail.com)  
 - 📞 [WhatsApp](https://wa.link/xge0dd)  
+- 📄 [Curriculum Vitae](https://victorzion.cv)
 
 
 ### 💬 Fun Fact  
-I learn and adapt quickly. I write code faster than I can cook instant noodles! 🤝🏽 
+I learn and adapt quickly to any given situation. Pro-Reality 🤝🏽 
