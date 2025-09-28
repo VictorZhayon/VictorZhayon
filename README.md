@@ -5,8 +5,8 @@ I'm an **AI/ML Engineer, a Technical Researcher and a Backend Engineer in the ma
 
 
 ## 🔭 What I’m Working On  
-- 🌟 **Current Focus:** Projects integrating LLMs, NLP, Computer Vision and more.  
-- 🌱 **Learning:** Advanced Machine Learning, Prompt Engineering, and Backend Engineering.  
+- 🌟 **Current Focus:** Projects integrating LLMs, RAG pipelines, backend with Python.
+- 🌱 **Learning:** Backend Engineering with Node.js, Web3
 - 🛠️ **Upcoming Projects:** Stay tuned!  
 
 
@@ -41,7 +41,7 @@ I'm an **AI/ML Engineer, a Technical Researcher and a Backend Engineer in the ma
 
 ## 🌍 Connect With Me  
 
-- 💼 [LinkedIn](https://linkedin.com/in/victor-zion)  
+- 💼 [LinkedIn](https://)  
 - 🌐 [Portfolio](https://zhayonportfolio.streamlit.app/)
 - ✉️ [Email](mailto:victorzion1@gmail.com)  
 - 📞 [WhatsApp](https://wa.link/xge0dd)  
