@@ -76,7 +76,7 @@ An AI-powered tech career discovery platform. Users take a 40-question personali
 
 ## 🌍 Find Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge)](https://zhayon-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge)](https://zhayon-io.netlify.app)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@victorzion1)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/victor-zion-1b85a440a/)
 [![Twitter / X](https://img.shields.io/badge/-Twitter%20%2F%20X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/zhayon_io)
