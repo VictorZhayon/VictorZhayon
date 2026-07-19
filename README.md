@@ -1,43 +1,54 @@
 # Hey, I'm Victor Zion 👋
 
-AI/ML Engineer · Technical Writer · Builder
+**AI/ML Engineer · Documentation Engineer**
 
-I build things at the intersection of intelligent systems and real-world impact —
-mostly LLM-powered apps, RAG pipelines, and backend APIs.
-Currently going deeper on AI/ML and learning Developer Marketing.
+I build AI systems, then I write the docs that explain them. Most people pick one lane. I work both, because I got tired of using tools with bad documentation and decided to fix the problem from both ends — as a builder and as a writer.
+
+---
+
+## What I Do
+
+By day, I write technical documentation for developer-facing products: API references, migration guides, integration docs. I've done this for companies like Coinbase, nTop, MX, and FrankieOne, using Mintlify to ship docs developers actually read.
+
+Alongside that, I build. LLM-powered apps. RAG pipelines. Backend APIs that talk to GitHub, Gemini, and Claude. I lead engineering at GemNexus, a community-driven tech comapny, and write on AI, Backend, and thoughts on Medium.
+
+The two sides sharpen each other. Building the systems teaches me what actually confuses people. Writing the docs teaches me what actually needs explaining.
 
 ---
 
 ## 🔭 What I'm Building
 
 ### [techDNA](https://techdna.app) — *Founder*
-An AI-powered tech career discovery platform. Users take a 40-question personality quiz and get mapped to the right tech career path via Gemini AI. Built on Netlify serverless functions, Supabase, and Resend.
+An AI-powered tech career discovery platform. Users take a 40-question quiz, and Gemini maps their answers to a career path. Built on Netlify serverless functions, Supabase, and Resend.
 
 ---
 
 ## 🧠 Skills & Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-
-### AI / ML
+### AI / ML Engineering
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge)
+![RAG](https://img.shields.io/badge/-RAG%20Pipelines-008080?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?logoColor=white&style=for-the-badge)
-![RAG](https://img.shields.io/badge/-RAG%20Pipelines-008080?style=for-the-badge)
-
-### APIs & LLMs
 ![Claude API](https://img.shields.io/badge/-Claude%20API-D97757?style=for-the-badge)
 ![Gemini API](https://img.shields.io/badge/-Gemini%20API-4285F4?logo=google&logoColor=white&style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?logo=openai&logoColor=white&style=for-the-badge)
 
-### Frameworks & Libraries
+### Documentation & Developer Content
+![Mintlify](https://img.shields.io/badge/-Mintlify-000000?logoColor=white&style=for-the-badge)
+![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-007ACC?logo=microsoftword&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+
+### Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
 
 ### Data & Infra
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
@@ -48,12 +59,6 @@ An AI-powered tech career discovery platform. Users take a 40-question personali
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Mintlify](https://img.shields.io/badge/-Mintlify-000000?logoColor=white&style=for-the-badge)
-
-### Other
-![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-007ACC?logo=microsoftword&logoColor=white&style=for-the-badge)
-![Developer Marketing](https://img.shields.io/badge/-Developer%20Marketing-FF4088?style=for-the-badge)
 
 ---
 
